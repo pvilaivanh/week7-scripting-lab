@@ -1,5 +1,8 @@
 #!/bin/bash
-echo "Simple Calculator - Main Branch"
+
+echo "Simple Calculator"
+
+echo "Change made on main branch"
 
 read -p "Enter first number: " num1
 read -p "Enter second number: " num2
