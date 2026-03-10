@@ -1,0 +1,13 @@
+# Compiled files
+*.class
+*.o
+*.exe
+
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# Log files
+*.log
+logs/
