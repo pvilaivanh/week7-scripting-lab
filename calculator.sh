@@ -1,5 +1,6 @@
 #!/bin/bash
 
+echo "Calculator Program"
 echo "Simple Calculator"
 
 echo "Change made on main branch"
