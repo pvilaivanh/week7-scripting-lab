@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Simple Calculator - Feature Branch"
+echo "Simple Calculator"
 
 read -p "Enter first number: " num1
 read -p "Enter second number: " num2
