@@ -1,6 +1,5 @@
 #!/bin/bash
 
-echo "Change made on main branch"
 echo "Simple Calculator - Feature Branch"
 
 read -p "Enter first number: " num1
