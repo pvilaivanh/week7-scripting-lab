@@ -9,6 +9,6 @@ read -p "Enter second number: " num2
 
 sum=$((num1 + num2))
 
-echo "----------------------"
+echo "------------------------"
 echo "Result: $num1 + $num2 = $sum"
-echo "----------------------"
+echo "------------------------"
