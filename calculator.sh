@@ -1,5 +1,6 @@
 #!/bin/bash
 
+echo "Calculator Program"
 echo "Simple Calculator"
 
 read -p "Enter first number: " num1
